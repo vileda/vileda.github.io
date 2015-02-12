@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "vileda",
-    "repositoryName": "vileda.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"vileda","repositoryName":"vileda.github.io","branch":"master"},"site":{"title":"foo","description":"bar","url":"http://vileda.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://vileda.github.io/themes/Casper"}}
